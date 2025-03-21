@@ -2,7 +2,7 @@
 //  UIPanGestureReconizerViewController.swift
 //  QRCodeTouchPadTask
 //
-//  Created by Kailash Rajput on 20/03/25.
+//  Created by Keval Thumar on 20/03/25.
 //
 
 import UIKit

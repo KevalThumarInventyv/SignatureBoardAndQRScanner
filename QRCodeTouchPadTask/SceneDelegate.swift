@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  QRCodeTouchPadTask
 //
-//  Created by Kailash Rajput on 19/03/25.
+//  Created by Keval Thumar on 19/03/25.
 //
 
 import UIKit
